@@ -1,16 +1,12 @@
-# flutter_sqlite
+# Welcome to StackEdit!
 
-A new Flutter application.
+This App is Built With Flutter And SQLITE DataBase
 
-## Getting Started
+# ScreenShots
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/rajvaya/FLutter-TO-DO-SQLite/blob/master/Screenshot/insert.jpeg?raw=true " height="400"/>
+<img src="https://github.com/rajvaya/FLutter-TO-DO-SQLite/blob/master/Screenshot/list.jpeg?raw=true " height="400"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/rajvaya/FLutter-TO-DO-SQLite/blob/master/Screenshot/Update.jpeg?raw=true " height="400"/>
+<img src="https://github.com/rajvaya/FLutter-TO-DO-SQLite/blob/master/Screenshot/delete.jpeg?raw=true " height="400"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
